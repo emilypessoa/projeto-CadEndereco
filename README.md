@@ -30,9 +30,11 @@ A Tela de Endereço Automático com Consulta por CEP é um projeto que visa simp
 - JavaScript
 - Bootstrap
 
-### Fontes consultadas
+## Fontes consultadas
 [Bootstrap5](https://getbootstrap.com/docs/5.0/forms/layout/) 
-![img](img/Gravando-2023-09-20-123706.gif)
+![img](img/Gravando-2023-09-20-123706.gif)  
+[conertor de video em GIF](https://convertio.co/pt/mp4-gif/)  
+![img](img/Captura%20de%20tela%202023-09-29%20094457.png)  
 
 
 ### Autores
