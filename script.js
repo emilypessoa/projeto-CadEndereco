@@ -26,7 +26,7 @@ utilizando a função do tipo assincrona
 */
 const pesquisarCep = async() =>{
     limparFormulario();
-    const url = `http://viacep.com.br/ws/${cep.value}/json/`;
+    const url = `https://viacep.com.br/ws/${cep.value}/json/`;
     if(cepValido(cep.value)){
         const dados = await fetch(url);
         const addres = await dados.json();
